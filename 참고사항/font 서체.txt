@@ -1,0 +1,12 @@
+글씨 서체
+https://fonts.google.com/
+
+>>nanum Gothic
+>>맨오른쪽 사이드바
+>>link에서 복사 
+>>붙여넣기는 main.css보다 위로한다  regular400 과 regular 700 선택
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap" rel="stylesheet">
+
+
